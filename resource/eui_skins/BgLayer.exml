@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="BgLayerSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="162749aa134" ></w:Config>
+	<e:Rect id="bg1" width="640" height="400" x="0" y="-100" fillColor="0x374bdd"/>
+	<e:Rect id="bg2" width="640" height="400" x="0" y="300" fillColor="0x2c74e0"/>
+	<e:Rect id="bg3" width="640" height="400" x="0" y="700" fillColor="0x3793e5"/>
+	<e:Rect id="bg4" width="640" height="400" x="0" y="1100" fillColor="0x4eb4e5"/>
+</e:Skin>

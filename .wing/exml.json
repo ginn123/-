@@ -1,0 +1,37 @@
+{
+    "1627068230f": {
+        "path": "Start.ts",
+        "class": "Start",
+        "parentPath": ""
+    },
+    "1627486052e": {
+        "path": "gameLayer.ts",
+        "class": "gameLayer",
+        "parentPath": ""
+    },
+    "1627489cb72": {
+        "path": "BgLayer.ts",
+        "class": "BgLayer",
+        "parentPath": ""
+    },
+    "162749aa134": {
+        "path": "BgLayer.ts",
+        "class": "BgLayer",
+        "parentPath": ""
+    },
+    "16274b91a8c": {
+        "path": "MyPlane.ts",
+        "class": "MyPlane",
+        "parentPath": ""
+    },
+    "16274c4d288": {
+        "path": "enemy.ts",
+        "class": "enemy",
+        "parentPath": ""
+    },
+    "16275776182": {
+        "path": "endLayer.ts",
+        "class": "endLayer",
+        "parentPath": ""
+    }
+}

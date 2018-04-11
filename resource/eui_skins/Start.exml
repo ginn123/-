@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<e:Skin class="StartSkin" width="640" height="1136" xmlns:e="http://ns.egret.com/eui" xmlns:w="http://ns.egret.com/wing" >
+	<w:Config id="1627068230f" ></w:Config>
+	<e:Rect id="bg1" width="640" height="400" horizontalCenter="0" fillColor="0xd1f931" y="-100"/>
+	<e:Rect id="bg2" width="640" height="400" x="0" y="300" fillColor="0x74ef51"/>
+	<e:Rect id="bg3" width="640" height="400" x="0" y="700" fillColor="0x29e8ae"/>
+	<e:Button id="startButton" label="开始游戏" y="444.52" anchorOffsetX="0" width="163.64" anchorOffsetY="0" height="80.3" horizontalCenter="1"/>
+	<e:Label id="startTitle" text="飞机示例" y="174.24" anchorOffsetX="0" width="640" anchorOffsetY="0" height="100" horizontalCenter="1" textAlign="center" verticalAlign="middle" bold="true" textColor="0x0845b2" size="50"/>
+	<e:Label id="startAuthor" text="By Gin" y="848.93" anchorOffsetX="0" width="640" anchorOffsetY="0" height="66.36" horizontalCenter="1" verticalAlign="middle" bold="true" fontFamily="KaiTi" textColor="0xe6ef37" textAlign="center"/>
+</e:Skin>
